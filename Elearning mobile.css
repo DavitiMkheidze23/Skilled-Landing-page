@@ -1,0 +1,213 @@
+@media only screen and (max-width: 375px)
+{
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;700;800&display=swap');
+ * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+ }
+ .Main_Div {
+    width: 375px;
+    height: 2615px;
+    margin: auto;
+ }
+ .First_Div {
+    margin-top: 16px;
+    display: flex;
+ }
+ .Logo_Dark {
+    width: 89px;
+    height: 35px;
+    margin-left: 16px;
+    margin-top: 32px;
+ }
+ .First_Get_Started {
+    width: 140px;
+    height: 48px;
+    border: 0px;
+    border-radius: 28px;
+    background-color: #13183F;
+    color: white;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    cursor: pointer;
+    margin-left: 114px;
+    margin-top: 25px;
+}
+ h1 {
+    width: 343px;
+    height: 101px;
+    font-size: 40px;
+    margin-left: 16px;
+    margin-top: 38px;
+    font-family: 'Plus Jakarta Sans';
+    font-style: Extra Bold;
+    font-weight: 800;
+}
+.Info_P {
+    width: 343px;
+    height: 78px;
+    font-size: 16px;
+    line-height: 26px;
+    margin-left: 16px;
+    margin-top: 26px;
+}
+.Second_Get_Started {
+    width: 167px;
+    height: 56px;
+    border: 0px;
+    border-radius: 31.5px;
+    background: linear-gradient(180deg, #FF6F48 0%, #F02AA6 100%);
+    color: white;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    cursor: pointer;
+    margin-left: 16px;
+    margin-top: 26px;
+}
+.Main_Img {
+    display: none;
+}
+.Mobile_Img {
+    width: 327px;
+    height: 301px;
+    margin-top: 70px;
+}
+.Check_Out {
+    width: 343px;
+    height: 120px;
+    border: 0px;
+    border-radius: 10px;
+    background: linear-gradient(180deg, #FF6F48 0%, #F02AA6 100%);
+    margin-left: 16px;
+    display: flex;
+    align-items: center;
+}
+h2 {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    color: #fff;
+    padding: 28px;
+}
+h3 {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    color: #13183F;
+}
+.Card_P {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    color: #83869A;
+    margin-left: 16px;
+    width: 286px;
+    height: 78px;
+    margin-top: 16px;
+}
+.Animation_Div {
+    width: 343px;
+    height: 259px;
+    border: 0px;
+    margin-top: 40px;
+    border-radius: 10px;
+    background-color: #FFF;
+    box-shadow: 0px 25px 50px rgba(6, 22, 141, 0.0442381);
+    margin-left: 16px;
+}
+.Get_Started {
+    border: none;
+    background-color: white;
+    cursor: pointer;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    margin-left: 28px;
+    margin-top: 24px;
+    color: #F74780;
+}
+.Design_Div {
+    width: 343px;
+    height: 259px;
+    border: 0px;
+    border-radius: 10px;
+    margin-left: 16px;
+    margin-top: 40px;
+    background-color: #FFF;
+    box-shadow: 0px 25px 50px rgba(6, 22, 141, 0.0442381);
+}
+.Photography_Div {
+    width: 343px;
+    height: 259px;
+    border: 0px;
+    margin-top: 40px;
+    margin-left: 16px;
+    border-radius: 10px;
+    background-color: #FFF;
+    box-shadow: 0px 25px 50px rgba(6, 22, 141, 0.0442381);
+}
+.Crypto_Div{
+    width: 343px;
+    height: 259px;
+    border: 0px;
+    margin-top: 40px;
+    margin-left: 16px;
+    border-radius: 10px;
+    background-color: #FFF;
+    box-shadow: 0px 25px 50px rgba(6, 22, 141, 0.0442381);
+}
+.Business_Div {
+    width: 343px;
+    height: 259px;
+    border: 0px;
+    margin-top: 40px;
+    margin-left: 16px;
+    border-radius: 10px;
+    background-color: #FFF;
+    box-shadow: 0px 25px 50px rgba(6, 22, 141, 0.0442381);
+}
+.Last_Div {
+    width: 375px;
+    height: 120px;
+    background-color: #13183F;
+    margin-top: 80px;
+    display: flex;
+    align-items: center;
+}
+.Logo_Light {
+    width: 89px;
+    height: 35px;
+    margin-left: 16px;
+}
+.Third_Get_Started {
+    width: 140px;
+    height: 48px;
+    border: 0px;
+    border-radius: 28px;
+    background: linear-gradient(180deg, #4851FF -54.32%, #F02AA6 100%);;
+    color: white;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    cursor: pointer;
+    margin-left: 114px;
+}
+.Icon_Img {
+    margin-left: 28px;
+}
+h3 {
+    margin-top: 24px;
+    margin-left: 28px;
+}
+}
